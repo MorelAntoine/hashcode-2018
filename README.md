@@ -1,1 +1,1 @@
-# hashcode-2018
+hash
